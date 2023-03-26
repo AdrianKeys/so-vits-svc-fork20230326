@@ -1,4 +1,6 @@
 # SoftVC VITS Singing Voice Conversion
+获取人声音样本wav，可以用UVR5，https://github.com/Anjok07/ultimatevocalremovergui
+
 
 [**English**](./README.md) | [**中文简体**](./README_zh_CN.md)
 
